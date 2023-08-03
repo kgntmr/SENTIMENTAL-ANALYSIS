@@ -1,1 +1,5 @@
-# SENTIMENTAL-ANALYSIS
+Unveiling Sentiments: Exploring Homelessness in Ireland through Sentiment Analysis
+
+In a quest to gain insights into the housing needs in Ireland, sentiment analysis was performed on discussions related to homelessness in the country sourced from the Reddit API. Two libraries, TextBlob and NLTK, were utilized for this analysis to compare their results. TextBlob, known for its user-friendly interface, yielded an overall sentiment score of approximately -0.0782, suggesting a slightly negative sentiment. On the other hand, the NLTK library, known for its flexibility and customization options, produced a slightly lower overall sentiment score of around -0.1118. Despite this minor difference, both analyses pointed to a generally negative sentiment regarding homelessness in Ireland.
+
+The analysis highlighted the importance of addressing the housing crisis in the country, as discussions on Reddit reflected concern and discontent among the public. With the knowledge provided by the sentiment analysis, policymakers and relevant stakeholders could gain better insights into the public's sentiments and craft targeted strategies to tackle homelessness and housing issues in Ireland effectively.
